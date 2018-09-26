@@ -1,4 +1,4 @@
-# Example repo react dev tools error with webpack HMR
+# Reproducing WDS no broswer open
 
 To get started, run
 
